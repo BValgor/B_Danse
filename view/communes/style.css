@@ -1,0 +1,25 @@
+body {
+    background-color: #2e2c2b !important;
+}
+
+.navbar-dark {
+    background: linear-gradient(to left, #ef3a5d, #3b4848);
+    text-transform: uppercase !important;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+}
+
+.container-fluid {
+    display: flex !important;
+    padding-left: 1%;
+    padding-right: 1%;
+    justify-content: flex-end !important;
+    gap: 3%;
+}
+
+.offcanvas {
+    background-color: #3b4848 !important;
+}
+
+.offcanvas-title {
+    color:#ef3a5d !important;
+}

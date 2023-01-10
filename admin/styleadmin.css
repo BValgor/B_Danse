@@ -1,0 +1,68 @@
+h4 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    color:#ef3a5d !important;
+    font-size: 80px;
+    letter-spacing: 10px;
+    font-family:'Montserrat', sans-serif !important;
+    text-transform: uppercase;
+}
+
+.connexion {
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 60%;
+    color: white !important;
+}
+
+.alert {
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 60%;
+}
+
+.enregistrement {
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 60%;
+    color: white !important;
+}
+
+
+/* Mes eleves */
+
+.conteneureleve{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.table {
+    color: white !important;
+}
+
+.ajoutereleve1 {
+    color: black !important;
+    text-decoration: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    margin-right: 50%;
+    margin-bottom: 10%;
+    color: white !important;
+}
+
+
+/* Les cours */
+
+.redreserve {
+    color: #ef3a5d !important;
+}
